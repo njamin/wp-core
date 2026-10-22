@@ -1,6 +1,6 @@
 {
     "name": "njamin/wp-core",
-    "description": "Shared machinery of the client plugins: Logger, migration runner, asset registry.",
+    "description": "Shared machinery of the client plugins: Logger, migration runner, asset registry, encryption at rest.",
     "type": "library",
     "license": "GPL-2.0-or-later",
     "require": {
